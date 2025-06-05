@@ -1,6 +1,4 @@
-
-
-<!--![DOCTOR STRANGE](https://github.com/user-attachments/assets/ec86a846-4e21-4165-a548-fcfa76355488)
+[DOCTOR STRANGE](https://github.com/user-attachments/assets/ec86a846-4e21-4165-a548-fcfa76355488)
 
 **Hedracy/Hedracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
