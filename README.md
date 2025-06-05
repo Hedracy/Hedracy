@@ -1,7 +1,8 @@
-## Hi there 👋
+Hedracy is here.
 
 <!--
 **Hedracy/Hedracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![indir (1)](https://github.com/user-attachments/assets/f6a0e60a-14b5-488a-b54d-1bea7d5df3cc)
